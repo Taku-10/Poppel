@@ -1,0 +1,4 @@
+﻿Use [C:\USERS\TAKUNDA\DOWNLOADS\HAYA\GOODFOODSYSTEM\GOODFOODDATABASE.MDF]
+Go
+exec sp_rename 'HeadWaiter', 'MyProduct'
+Go
