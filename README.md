@@ -1,6 +1,6 @@
 # Poppel
 
-This is a project completed as part of a course on systems development using C# and the UML. The goal of this project was to design, construct, test, and implement a segment of the Poppel Order Processing System, a system for managing customer orders and inventory. It was developed by Takunda and myself.
+This is a project completed as part of a course in second year on systems development using C#. The goal of this project was to design, construct, test, and implement a segment of the Poppel Order Processing System, a system for managing customer orders and inventory. It was developed by Takunda and myself.
 
 # Functionality
 
