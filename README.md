@@ -21,7 +21,7 @@ To run this project on your local machine, you will need to have Visual Studio i
 3. Navigate to the folder where you cloned or extracted the repository and select the solution file (.sln extension).
 4. Build the solution by selecting "Build Solution" in the Build menu.
 
-Now the system was made for use by admins only so when you get ton the login page, you will need an admin credential to login. Check the password documentaion for admin credentils to use.
+Now the system was made for use by admins only so when you get to the login page, you will need an admin credential to login. Check the LogInPassword document for admin credentials to use.
 
 # Usage
 To use this project, simply run it within Visual Studio. You can create customers, create orders, cancel items, generate picking lists, and print reports using the graphical user interface.
